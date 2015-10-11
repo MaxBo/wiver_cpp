@@ -1,0 +1,35 @@
+WIVER 060201a:
+	- Einlesen Zellenstruktur, Beschäftigte, Arbeitsstätten
+	- Berechnung Quellverkehrsaufkommen
+
+WIVER 060202a:
+	- Prüfung Konstanz Gesamtaufkommen fahrtaktive Beschäftigte bei 1. Berechnungsschritt
+	  (Sicherheitsabfrage implementiert)
+	- Einlesen Touren-/Fahrtenhäufigkeit
+	- Berechnung Verkehrsaufkommen (Touren/Fahrten)
+
+WIVER 060427a
+	- Einlesen Zielpotenziale
+	- Quellverkehrsaufkommen vollständig berechnet
+	- Zielverkehrsaufkommen Gesamt
+	- Zielverkehrsaufkommen Aufteilung auf Empfängerbranchen und Zellen
+
+WIVER 060427c
+	- Verbindung Quelle-Ziel mti Randsummenabgleich
+	
+WIVER 060428a
+	- Tourenbildung
+	- Matrixausgabe
+
+WIVER 060428b
+
+
+
+
+
+noch offen:
+	- Reisezeitzunahme bei Randsummenabgleich und Anpassung Entfernungsempfindlichkeit
+	- Matrixzusammenfassung
+	- Stundengruppenaufteilung
+	
+	
